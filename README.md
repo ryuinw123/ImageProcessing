@@ -1,1 +1,3 @@
-# ImageProcessing
+# ImageProcessing  
+  
+Lab ของวิชา Image Processing
